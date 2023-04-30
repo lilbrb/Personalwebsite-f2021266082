@@ -1,2 +1,2 @@
-# Personalwebsite-f2021266082
+# personalwebsite
 I developed this personal website using html and CSS.
